@@ -3,3 +3,5 @@ A long time ago, in a galaxy far, far away...
 This text is being written in compliance with EECS 448 Lab 1 directions.
 
 This text is being added for the branch part of Lab 1's directions.
+
+This text is being added for the checkout part of Lab 1's directions.
